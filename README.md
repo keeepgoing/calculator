@@ -7,3 +7,5 @@ modify
 
 editfff
 
+한글지원
+
